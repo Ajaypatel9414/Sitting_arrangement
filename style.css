@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+
+table{
+    /* border-collapse: collapse; */
+    width: 100%;
+}
+
+
+th{
+   padding: 10px;
+}
+
+td{
+    border: 2px solid rgb(46, 0, 252);
+    padding: 10px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.trailer{
+    display: flex;
+    justify-content: center;
+}
+
+td:hover{
+    background-color: rgb(255, 0, 0);
+}
